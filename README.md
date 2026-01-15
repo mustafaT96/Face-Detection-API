@@ -25,16 +25,16 @@ The system also includes optional **image/video processing pipelines** that send
 
 ## 📁 Project Structure
 
-├── app.py # FastAPI backend
-├── main.py # Image/video client processor
-├── video_processing.py # Alternative video processing script
-├── models.py # YOLO + Dlib detection & embedding logic
-├── config.py # Paths & configuration
-├── yolov3-wider_16000.weights
-├── yolov3-face.cfg
-├── shape_predictor_68_face_landmarks.dat
-├── dlib_face_recognition_resnet_model_v1.dat
-└── README.md
+├── app.py # FastAPI backend  
+├── main.py # Image/video client processor  
+├── video_processing.py # Alternative video processing script  
+├── models.py # YOLO + Dlib detection & embedding logic  
+├── config.py # Paths & configuration  
+├── yolov3-wider_16000.weights  
+├── yolov3-face.cfg  
+├── shape_predictor_68_face_landmarks.dat  
+├── dlib_face_recognition_resnet_model_v1.dat  
+└── README.md  
 
 ---
 
